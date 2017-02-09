@@ -35,8 +35,7 @@ In this case, we have set the `tcp_mssdflt` parameter to be `1460`.
 
 ## Limitations
 
-* Assumes that cron itself is already installed
-* Does not attempt to manage the cron services
+* AIX only
 * Not supported by Puppet, Inc.
 
 ## Development
